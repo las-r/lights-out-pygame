@@ -27,6 +27,6 @@ If you want a .msi installer, type or paste this in instead:
 ```
 python setup.py bdist_msi
 ```
-And now you have a .exe or .msi file that does the same thing as your Python program, but faster and better! In case you somehow haven't noticed already. this tutorial is for Windows only. Sorry, Mac and Linux users!
+If all of this succeeded, then you should have a folder in your directory called `build`, inside of which you should have a .exe or .msi file that does the same thing as your Python program, and all the libraries and stuff! In case you somehow haven't noticed already. this tutorial is for Windows only. Sorry, Mac and Linux users!
 
 If you had any issues with building, please contact the [cx-Freeze](https://pypi.org/project/cx-Freeze/) dev team, not me.
