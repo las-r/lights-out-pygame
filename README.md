@@ -29,4 +29,4 @@ python setup.py bdist_msi
 ```
 If all of this succeeded, then you should have a folder in your directory called `build`. Inside of it, you should have a `.exe` or `.msi` file that does the same thing as your Python program, along with all the libraries and stuff. In case you somehow haven't noticed already. this tutorial is for Windows only. Sorry, Mac and Linux users!
 
-If you had any issues with building, please contact the [cx-Freeze](https://pypi.org/project/cx-Freeze/) dev team, not me.
+If you had any issues with building, please contact the [cx-Freeze](https://github.com/marcelotduarte/cx_Freeze?tab=readme-ov-file) dev team, not me.
