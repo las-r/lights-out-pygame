@@ -3,7 +3,7 @@ A simple Lights Out game written in Python using the Pygame library.
 
 Both a Python and Windows executable file are available. The python file only supports Python 3 and Windows executable file only supports Windows 8 to 11.
 
-Feel free to use, modify, and distribute this however you like, as long as you give proper credit to me according to the MIT License!
+Feel free to use, modify, and distribute this however you like! :)
 
 ## Compiling .py file to `.exe` or `.msi` file
 In case you want to, here's a quick tutorial on how you can build a Windows executable or installer from Python.
